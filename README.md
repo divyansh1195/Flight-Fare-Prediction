@@ -1,6 +1,6 @@
 # Airline Flight Fare Prediction: 
 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-NLTK-orange.svg)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit-Learn-orange.svg)
 
 This repository consists of files required for end to end implementation and deployment of Machine Learning Flight Fare Prediction web application created with Flask on Heroku platform.
 
