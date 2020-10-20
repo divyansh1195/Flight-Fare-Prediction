@@ -20,6 +20,12 @@ A glimpse of the web app:
 
 ![GIF](readme_resources/flight-web-app.gif)
 
+• If you encounter this webapp as shown in the picture given below, it is occuring just because **free demos for this particular month provided by the Heroku platform have been completely used.** You can access the webpage on 1st of the next month.
+
+• Sorry for the inconvenience.
+
+![Heroku-Error](readme_resources/application-error-heroku.png)
+
 ## About the App
 The Airline Flight Fare Prediction is a Flask web application which predicts flight fares. The code is written in Python 3.6.10. 
 If you don't have Python installed, you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
