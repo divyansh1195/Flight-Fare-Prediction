@@ -13,7 +13,7 @@ link: [https://airlinefareprediction.herokuapp.com/](https://airlinefarepredicti
 
 [![](https://i.imgur.com/gM0VEUk.png)](https://airlinefareprediction.herokuapp.com/)
 
-[![](https://imgur.com/hZuAVuf)](https://airlinefareprediction.herokuapp.com/)
+[![](https://i.imgur.com/hZuAVuf.png)](https://airlinefareprediction.herokuapp.com/)
 
 ## About the App
 The Airline Flight Fare Prediction is a Flask web application which predicts flight fares. The code is written in Python 3.6.10. 
