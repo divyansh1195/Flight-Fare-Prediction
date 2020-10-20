@@ -1,17 +1,8 @@
 # Airline-Fare-Prediction
 
-Flight Fare Prediction:
-Table of Content
-Demo
-Overview
-Motivation
-Installation
-Deployement on Heroku
-Directory Tree
-Bug / Feature Request
-Future scope of project
-Demo
-Link: https://flight-price-prediction-api.herokuapp.com/
+The Airline Flight Fare Prediction App is a flask web app which predicts the flight fare. The code 
+
+Link: https://airlinefareprediction.herokuapp.com/
 
 
 
