@@ -18,9 +18,7 @@ If you want to view the deployed model, click on the following link:<br />
 
 A glimpse of the web app:
 
-[![](https://i.imgur.com/gM0VEUk.png)](https://airlinefareprediction.herokuapp.com/)
-
-[![](https://i.imgur.com/hZuAVuf.png)](https://airlinefareprediction.herokuapp.com/)
+![GIF](readme_resources/flight-web-app.gif)
 
 ## About the App
 The Airline Flight Fare Prediction is a Flask web application which predicts flight fares. The code is written in Python 3.6.10. 
