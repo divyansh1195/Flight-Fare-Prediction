@@ -1,10 +1,10 @@
 # Airline Flight Fare Prediction: 
 
 ## Table of Contents
-  * [App Link](#app link)
-  * [About the App](#about the app)
+  * [App Link](#app-link)
+  * [About the App](#about-the-app)
   * [Deployement on Heroku](#deployement-on-heroku)
-  * [Technologies Used](#technologies used)
+  * [Technologies Used](#technologies-used)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
