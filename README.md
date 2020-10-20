@@ -16,6 +16,8 @@ This repository consists of files required for end to end implementation and dep
 If you want to view the deployed model, click on the following link:<br />
 [https://airlinefareprediction.herokuapp.com/](https://airlinefareprediction.herokuapp.com/)
 
+A glimpse of the web app:
+
 [![](https://i.imgur.com/gM0VEUk.png)](https://airlinefareprediction.herokuapp.com/)
 
 [![](https://i.imgur.com/hZuAVuf.png)](https://airlinefareprediction.herokuapp.com/)
