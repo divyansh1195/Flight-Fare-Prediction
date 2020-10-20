@@ -49,3 +49,7 @@ The next step would be to follow the instruction given in the [Heroku Documentat
 ## Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/divyansh1195/Airline-Fare-Prediction/issues) here by including your search query and the expected result
+
+
+## Please do ⭐ the repository, if it helped you in anyway.
+
