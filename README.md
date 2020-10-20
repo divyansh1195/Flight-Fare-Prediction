@@ -6,11 +6,10 @@
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Technologies Used](#technologies-used)
   * [Bug / Feature Request](#bug---feature-request)
-  * [Future scope of project](#future-scope)
 
 
 ## App Link
-Link: [https://airlinefareprediction.herokuapp.com/](https://airlinefareprediction.herokuapp.com/)
+link: [https://airlinefareprediction.herokuapp.com/](https://airlinefareprediction.herokuapp.com/)
 
 [![](https://i.imgur.com/gM0VEUk.png)](https://airlinefareprediction.herokuapp.com/)
 
@@ -39,9 +38,3 @@ The next step would be to follow the instruction given in the [Heroku Documentat
 ## Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/divyansh1195/Airline-Fare-Prediction/issues) here by including your search query and the expected result
-
-## Future Scope
-
-* Use multiple Algorithms
-* Optimize Flask app.py
-* Front-End 
