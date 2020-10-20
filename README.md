@@ -9,7 +9,7 @@
   * [Future scope of project](#future-scope)
 
 
-## Layout 
+## App Link
 Link: [https://airlinefareprediction.herokuapp.com/](https://airlinefareprediction.herokuapp.com/)
 
 [![](https://i.imgur.com/gM0VEUk.png)](https://airlinefareprediction.herokuapp.com/)
