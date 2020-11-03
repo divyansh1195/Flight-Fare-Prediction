@@ -28,11 +28,9 @@ A glimpse of the web app:
 
 ## About the App
 The Airline Flight Fare Prediction is a Flask web application to predict airline flight fares across the Indian cities. The dataset for the project is taken from Kaggle, and it is a time-stamped dataset so, while building the model, extensive pre-processing was done on the dataset especially on the date-time columns to finally come up with a ML model which could effectively predict airline fares across various Indian Cities. 
-The dataset had many parameters which had to pre-processed and transformed into new parameters for a cleaner and simple web application layout to predict the fares. The various independent parameters in the dataset were: 
+The dataset had many features which had to pre-processed and transformed into new parameters for a cleaner and simple web application layout to predict the fares. The various independent features in the dataset were: 
 
-Size of test set: 2671 records
-
-FEATURES: Airline: The name of the airline.
+Airline: The name of the airline.
 
 Date_of_Journey: The date of the journey
 
